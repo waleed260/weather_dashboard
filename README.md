@@ -14,14 +14,7 @@ A beautiful and functional desktop weather application built with Python and Tki
 
 ## Installation
 
-1. Clone or download this repository
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   Or if using uv:
-   ```bash
-   uv sync
+
    ```
 
 3. Get an API key from [OpenWeatherMap](https://openweathermap.org/api) (free tier available)
